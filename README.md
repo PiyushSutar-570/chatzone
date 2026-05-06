@@ -3,8 +3,7 @@
 
 ChatZone is a premium, full-stack real-time chatting application built with the MERN stack (MongoDB, Express, React, Node.js) and Socket.io. It features a modern, high-performance interface styled entirely with **Vanilla CSS** for a unique and high-end aesthetic.
 
-<img width="1024" height="1024" alt="chatzone_banner_for_editing_1778079298976" src="https://github.com/user-attachments/assets/2862bc8b-526e-4cea-83da-86e882b54dc9" />
-
+<img width="1024" height="1024" alt="chatzone_assets_centered_white_1778079442169" src="https://github.com/user-attachments/assets/405028a5-ba9d-4afc-9c43-5c382539032c" />
 
 ## ✨ Features
 
