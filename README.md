@@ -1,10 +1,9 @@
-![ChatZone GitHub Banner](/C:/Users/PIYUSH/.gemini/antigravity/brain/62bc8cf5-0345-4682-9dd4-b1da64ead99b/chatzone_github_banner_wide_1778079093129.png)
 
 # 💬 ChatZone - Real-Time Chat Application
 
 ChatZone is a premium, full-stack real-time chatting application built with the MERN stack (MongoDB, Express, React, Node.js) and Socket.io. It features a modern, high-performance interface styled entirely with **Vanilla CSS** for a unique and high-end aesthetic.
 
-<img width="1914" height="900" alt="Screenshot 2026-05-06 200620" src="https://github.com/user-attachments/assets/fecc732e-f7aa-4f15-857b-4017d85c229a" />
+<img width="1024" height="1024" alt="chatzone_banner_for_editing_1778079298976" src="https://github.com/user-attachments/assets/2862bc8b-526e-4cea-83da-86e882b54dc9" />
 
 
 ## ✨ Features
